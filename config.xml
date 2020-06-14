@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.jharttech.Kusplatt2.0."
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Kusplatt2.0 Mobile</name>
+
+  <description>
+      A remake of Kusplatt but using scratch instead of Unity this time.
+  </description>
+
+  <author href="https://jharttech.com" email="jharttech@hotmail.com">
+      Jason Hartgraves
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
